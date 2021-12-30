@@ -77,6 +77,10 @@ sudo reboot
 
 
 
+sudo systemctl start sonar
+sudo systemctl status sonar
+
+
 
 
 
